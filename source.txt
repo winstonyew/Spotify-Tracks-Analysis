@@ -1,0 +1,4 @@
+Location: notebooks\data\tracks.csv
+Dataset: Spotify Dataset 1921-2020, 600k+ Tracks
+Description: A collection of audio features and metadata for 160,000+ Spotify tracks used to analyze song duration trends over time.
+Link: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks/data?select=tracks.csv
